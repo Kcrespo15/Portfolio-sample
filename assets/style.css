@@ -13,7 +13,7 @@
 }
 
 body{
-    background-image: url(/assets/images/bodyB.webp);
+    background-image: url(/assets/images/back5.jpg);
     position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,3 +58,45 @@ header nav {
     color: var(--color);
     text-decoration: none;
  }
+
+ p{
+    font-size: 18px;
+ }
+
+ .float-left {
+    float:left;
+    margin-right: 25px;
+ }
+
+ .content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 200px;
+    padding: 30px;
+}
+
+ .info {
+    margin-bottom: 20px;
+    padding:5px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #333399;
+    color: #ffffff;
+    border-radius: 15%;
+    opacity: 0.85;
+   
+}
+
+.info img {
+    max-height: 200px;
+    margin:50px;
+    border-radius: 120px;
+    
+}
+
+.info h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    left: 215px;
+    position: relative;
+}
