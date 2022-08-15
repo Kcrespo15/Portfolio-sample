@@ -134,7 +134,7 @@ div img {
 .container2 {
     position:relative;
     bottom: 4px;
-    left: 150px;
+    left: 174px;
 }
 
 .bottom-left {
@@ -144,3 +144,37 @@ div img {
     font-size: 25px;
     -webkit-text-stroke: 1px var(--color);
   }
+
+  .container3 {
+    position: relative;
+    text-align: center;
+    color: var(--color);
+    bottom:343px;
+  }
+
+  .centered2 {
+    position: absolute;
+    top: .05%;
+    left: 44%;
+    color: black;
+    font-size: 27px;
+    -webkit-text-stroke: 1px var(--color);
+    }
+
+    .container4 {
+        position: relative;
+        bottom: 682px;
+        right: 173px;
+        text-align: right;
+        color: var(--color);
+    }
+
+    .bottom-right {
+        position: relative;;
+        bottom: 340px;
+        right: 6px;
+        color: black;
+        font-size: 27px;
+        -webkit-text-stroke: .5px var(--color);
+      }
+      
