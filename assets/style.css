@@ -13,7 +13,7 @@
 }
 
 body{
-    background-image: url(/assets/images/back5.jpg);
+    background-color: #322a7c;
     position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,7 @@ header nav {
     font-size: 18px;
  }
 
-main h1 {
+section h1 {
     text-align: center;
     font-size: 100px;
     color:var(--color);
@@ -252,4 +252,30 @@ div img {
         .info p {
             font-size: 6.9px;
         }
+         section h1 {
+            font-size: 50px;
+            position: relative;
+            right: 175px;
+            
+         }
+         div img {
+            width: auto;
+            height: 75px;
+            position: relative;
+            right: 150px;
+         }
+          .centered {
+            display: none;
+          }
+        .bottom-left {
+            display: none;
+        }
+        .centered2 {
+            display: none;
+        }
+
+        .bottom-right {
+            display: none;
+        }
+        
     }
