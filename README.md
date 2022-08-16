@@ -8,4 +8,4 @@ To use this Portfolio, you can go through the sections that contain information 
 
 
  
- ![Screenshot 2022-08-16 at 18-21-29 Portfolio](https://user-images.githubusercontent.com/109176118/184997445-cb495808-fc99-4432-a787-430b684ec60d.png)
+ ![Screenshot 2022-08-16 at 19-41-01 Portfolio](https://user-images.githubusercontent.com/109176118/185003674-16a854a3-391d-4fe1-ab15-446ac0cad810.png)
