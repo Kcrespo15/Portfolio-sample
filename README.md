@@ -6,4 +6,6 @@ This portfolio was created to showcase a developer’s information and work so t
 ## Usage
 To use this Portfolio, you can go through the sections that contain information about me, projects, and contact information. Users who visit the site are able to get to know the developer a bit better by reading about their history in the “About Me” section. Within the projects section users can see the developers deployable works; this helps the users see if the developer has the knowledge and skills to help them achieve whatever project they might be looking into. Finally if the user wants to contact the developer there is a contact information bar at the bottom of the page. 
 
-## Portfolio Site 
+
+ 
+ ![Screenshot 2022-08-16 at 18-21-29 Portfolio](https://user-images.githubusercontent.com/109176118/184997445-cb495808-fc99-4432-a787-430b684ec60d.png)
